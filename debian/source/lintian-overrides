@@ -1,0 +1,5 @@
+python-simplejson source: file-without-copyright-information
+python-simplejson source: no-debian-changes
+python-simplejson source: source-contains-prebuilt-windows-binary
+python-simplejson source: source-is-missing
+python-simplejson source: source-package-encodes-python-version
