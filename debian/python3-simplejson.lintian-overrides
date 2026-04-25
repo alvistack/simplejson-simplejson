@@ -1,0 +1,4 @@
+python3-simplejson: copyright-without-copyright-notice
+python3-simplejson: initial-upload-closes-no-bugs
+python3-simplejson: no-manual-page
+python3-simplejson: zero-byte-file-in-doc-directory
