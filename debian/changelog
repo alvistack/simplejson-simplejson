@@ -1,0 +1,5 @@
+python-simplejson (100:4.1.2-1) UNRELEASED; urgency=medium
+
+  * https://github.com/simplejson/simplejson/releases/tag/v4.1.2
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 27 Aug 2026 20:32:13 +0800
